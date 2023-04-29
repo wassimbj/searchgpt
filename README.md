@@ -18,3 +18,6 @@
 <p align="center">
   <img src="searchgpt.gif" alt="SearchGPT" />
 </p>
+
+## How to search
+type `searchgpt` > `space` > and write your question
