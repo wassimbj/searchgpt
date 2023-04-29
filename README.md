@@ -23,3 +23,8 @@
 
 ## How to search
 type `searchgpt` > `space` > and write your question
+
+<p align="center">
+  <img src="demo.gif" alt="demo" />
+</p>
+
