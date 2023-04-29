@@ -19,5 +19,7 @@
   <img src="searchgpt.gif" alt="SearchGPT" />
 </p>
 
+**url to add:** `https://chat.openai.com/?_s=%s`
+
 ## How to search
 type `searchgpt` > `space` > and write your question
