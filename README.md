@@ -23,7 +23,7 @@
 
 ## How to search
 type `searchgpt` > `space` > and write your question
-
+> **💡 Note**: you can replace `searchgpt` whith whatever shortcut you want, to make it easier when searching, maybe something like `gpt`
 <p align="center">
   <img src="demo.gif" alt="demo" />
 </p>
