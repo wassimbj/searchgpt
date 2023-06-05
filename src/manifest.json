@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ChatGPT as a search engine",
   "manifest_version": 3,
-  "author": "Wassim Ben Jdida",
+  "author": "Wassim Ben Jdida <github.com/wassimbj>",
   "action": {
     "default_popup": "index.html",
     "default_title": "SearchGPT"
@@ -14,5 +14,9 @@
       "js": ["script.js"],
       "matches": ["*://*/*"]
     }
-  ]
+  ],
+  "web_accessible_resources": [{
+    "resources": ["search.js"],
+    "matches": ["*://*/*"]
+  }]  
 }
